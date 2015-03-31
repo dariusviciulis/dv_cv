@@ -4,14 +4,15 @@ body {
     padding-bottom:30px;
 
 }
-.no-top-pad {
-    padding-top: 0 !important;
-}
+
 .category-title {
+    padding-top: 20px !important;
     font-size:24px;
     color: #08629d;
 }
-
+.no-top-pad {
+    padding-top: 0px !important;
+}
 /* Mobile */
 @media screen and (max-width: 767px) {
     .category-title {
