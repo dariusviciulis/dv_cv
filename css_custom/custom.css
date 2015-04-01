@@ -6,7 +6,7 @@ body {
 }
 
 .category-title {
-    padding-top: 20px !important;
+    padding-top: 20px;
     font-size:24px;
     color: #08629d;
 }
@@ -17,6 +17,5 @@ body {
 @media screen and (max-width: 767px) {
     .category-title {
         font-size: 1.4em;
-        text-align: left;
     }
 }
